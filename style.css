@@ -35,11 +35,11 @@ button {
   min-width: 100%;
   min-height: 100%;
   display: flex;
-  alight-items: flex-end;
+  align-items: flex-end;
   justify-content: center;
 }
 #controlls div {
-  display: grid:
+  display: grid;
   grid-template-columns: 50px 50px 50px;
   grid-template-rows: auto auto;
   grid-columns-gap: 10px;
@@ -47,7 +47,7 @@ button {
   margin-bottom: 20px;
 }
 #controlls button {
-  width: 100%
+  width: 100%;
   background-color: white;
   border: 1px solid lightgray;
 }
